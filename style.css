@@ -1,0 +1,15 @@
+div {
+  background-color: rgb(80, 128, 01);
+  /* height: 3em; */
+  text-align: center;
+  line-height: 3em;
+}
+div.amarela {
+  background-color: rgb(255, 255, 0);
+}
+div:nth-child(3) {
+  background-color: #E1863B;
+}
+div:nth-child(5) {
+  background-color: hsl(0, 10%, 50%);
+}
